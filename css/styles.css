@@ -1,0 +1,16 @@
+body{
+  font-family: 'montserrat';
+}
+
+#title{
+  background-color: pink;
+}
+
+.container{
+  padding: 7% 8%;}
+h1{
+  font-family: "cursive";
+  font-size:3rem;
+  line-height: 1.5;
+
+}
